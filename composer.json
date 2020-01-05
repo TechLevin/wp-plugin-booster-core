@@ -1,0 +1,20 @@
+{
+  "name": "techlevin/wp-plugin-booster-core",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Md Miraj Khan",
+      "email": "miraj.net.xp@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "symfony/console": "^4.3.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "TechLevin\\WPBooster\\Core": "src/"
+    }
+  }
+}
