@@ -14,7 +14,7 @@
   },
   "autoload": {
     "psr-4": {
-      "TechLevin\\WPBooster\\Core": "src/"
+      "TechLevin\\WPBooster\\Core\\": "src/"
     }
   }
 }
